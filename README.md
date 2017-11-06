@@ -1,1 +1,1 @@
-A news webstie for windermere high school.
+A news website for Windermere High School.
